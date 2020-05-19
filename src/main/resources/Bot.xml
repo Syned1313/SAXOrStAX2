@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<bots>
+    <bot id="1">
+        <name>Tom</name>
+        <surname>Jerry</surname>
+        <password>123445678</password>
+        <age>19</age>
+        <country>Norway</country>
+        <city>New York</city>
+        <street>Kick Ass</street>
+        <numberOfBuilding>777</numberOfBuilding>
+        <serial>777-777-777</serial>
+        <cars>
+            <car>
+                <type>Muscle</type>
+                <engine>V8</engine>
+            </car>
+            <car>
+                <type>Street</type>
+                <engine>Line 4</engine>
+            </car>
+        </cars>
+        <carCountriesContinents>
+            <carFrom>
+                <carCountry>USA</carCountry>
+                <carContinent>North America</carContinent>
+            </carFrom>
+        </carCountriesContinents>
+        <carBrands>
+            <brand>
+                <carBrand>GMC</carBrand>
+            </brand>
+            <brand>
+                <carBrand>Ford</carBrand>
+            </brand>
+        </carBrands>
+    </bot>
+</bots>
